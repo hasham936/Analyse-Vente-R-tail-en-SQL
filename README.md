@@ -1,6 +1,6 @@
 # Projet d'Analyse de Ventes Retail en SQL
 
-### Intro
+### Introduction
 
 ```sql
 CREATE DATABASE sql_project;
